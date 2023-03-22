@@ -1,0 +1,3 @@
+C:/Users/Sanskar/CLionProjects/program2/cmake-build-debug/CMakeFiles/program2.dir
+C:/Users/Sanskar/CLionProjects/program2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sanskar/CLionProjects/program2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
